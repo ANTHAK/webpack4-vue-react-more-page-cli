@@ -8,7 +8,6 @@ npm-debug.log
 selenium-debug.log
 test/unit/coverage
 test/e2e/reports
-.vscode
 
 ### Sass template
 .sass-cache/
@@ -169,3 +168,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
